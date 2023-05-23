@@ -29,7 +29,7 @@ def calculate():
 			result="error"
 			equation=""
 	label_result.config(text=result)
-	clear()
+	
 
 
 
